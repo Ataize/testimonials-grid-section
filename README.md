@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://ataize.github.io/testimonials-grid-section/)]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [(https://ataize.github.io/testimonials-grid-section/)].
+- Live Site URL: [(https://github.com/Ataize/testimonials-grid-section/tree/main)].
 
 ## My process
 
